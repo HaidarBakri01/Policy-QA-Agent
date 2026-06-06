@@ -1,0 +1,39 @@
+The common between all files are chomadb.
+
+policy-qa-agent/
+│
+├── app.py                  main Streamlit + logic
+├── sample_docs/            policy .txt files
+└── chroma_store/           vector database (auto-created)
+
+//edited
+
+POLICY-QA-AGENT/
+│
+├── app.py              Brain --> Backend logic
+|         ├── Question → retrieve context → call GPT → return answer
+├── streamlit_app.py     Frontend UI (Streamlit only)
+|         ├── streamlit_app.py ---->  app.py
+├── ingest.py            One-time document ingestion
+├── utils.py             Helpers (chunking, cleaning)
+├── prompts.py           System & user prompts
+│
+├── sample_docs/         Policy documents (.txt)
+├── chroma_store/        Vector database (auto-generated)
+│
+├── .env                 OPENAI_API_KEY
+├── requirements.txt
+├── README.md
+└── venv / env
+
+
+============================================================================================================
+app.py
+│
+├── load env + chroma + embeddings
+├── retrieve_chunks()
+├── answer_question()
+└── Streamlit UI
+     └── calls answer_question() directly
+
+------------------------------------------------------

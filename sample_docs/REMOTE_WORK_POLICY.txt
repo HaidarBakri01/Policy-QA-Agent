@@ -1,0 +1,17 @@
+REMOTE WORK AND INTERNATIONAL TRAVEL POLICY - GLOBAL
+
+Section 1: Policy Overview
+This policy outlines the guidelines for employees wishing to work from a location other than their assigned primary office. The goal is to support flexibility while maintaining compliance and data security.
+
+Section 2: Domestic Remote Work
+Employees may be approved for full-time or hybrid remote work within the same country as their primary office, subject to manager and HR approval. Employees must maintain reliable internet and a safe workspace.
+
+Section 3: International Remote Work (Work from Abroad)
+International remote work is strictly limited due to legal, tax, and social security compliance requirements.
+- DURATION: Employees may work temporarily from a country other than their country of residence for a maximum of **30 calendar days per calendar year**.
+- APPROVAL: All requests for international remote work must be submitted to HR at least 45 days in advance and require final approval from the Executive Leadership Team.
+- PROHIBITIONS: Work is **not permitted** in any country where the company does not currently have a legal entity.
+- EXCEPTIONS: No exceptions will be made to the 30-day limit. Any duration longer than 30 days is considered a permanent relocation and must follow the full Global Mobility process.
+
+Section 4: Data Security and Equipment
+All remote workers must use company-provided, encrypted VPN access for all work-related activities. Sensitive data must never be stored on personal devices.

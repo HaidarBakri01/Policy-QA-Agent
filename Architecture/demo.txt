@@ -1,0 +1,34 @@
+Employee:
+
+“Can I work remotely from Spain for two months? Are there any restrictions I need to know?”
+-----------------------------------------------------------------------------------------------------
+
+AI Assistant:
+
+Based on the company’s Remote Work & Mobility Policy:
+
+Yes, employees may work remotely from another country for up to 90 days per calendar year, but the following conditions apply:
+
+1. Manager Approval Required
+You must receive written approval from your direct manager before traveling.
+
+2. Country Eligibility
+Spain is listed as a permitted country.
+
+3. Security Requirements
+
+You must connect through the corporate VPN
+
+Use only company-approved devices
+
+4. Tax & Legal Limitations
+Stays longer than 90 days may trigger tax residency issues.
+HR must review any extensions.
+
+Citations:
+
+Global Mobility Policy | page 3 | Remote Work Restrictions
+
+Information Security Guidelines | page 12 | Remote Access Rules
+
+Confidence: 92%

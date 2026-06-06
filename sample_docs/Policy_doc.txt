@@ -1,0 +1,46 @@
+REMOTE WORK AND INTERNATIONAL TRAVEL POLICY - GLOBAL
+
+Section 1: Policy Overview
+This policy outlines the guidelines for employees wishing to work from a location other than their assigned primary office. The goal is to support flexibility while maintaining compliance and data security.
+
+Section 2: Domestic Remote Work
+Employees may be approved for full-time or hybrid remote work within the same country as their primary office, subject to manager and HR approval. Employees must maintain reliable internet and a safe workspace.
+
+Section 3: International Remote Work (Work from Abroad)
+International remote work is strictly limited due to legal, tax, and social security compliance requirements.
+- DURATION: Employees may work temporarily from a country other than their country of residence for a maximum of **30 calendar days per calendar year**.
+- APPROVAL: All requests for international remote work must be submitted to HR at least 45 days in advance and require final approval from the Executive Leadership Team.
+- PROHIBITIONS: Work is **not permitted** in any country where the company does not currently have a legal entity.
+- EXCEPTIONS: No exceptions will be made to the 30-day limit. Any duration longer than 30 days is considered a permanent relocation and must follow the full Global Mobility process.
+
+Section 4: Data Security and Equipment
+All remote workers must use company-provided, encrypted VPN access for all work-related activities. Sensitive data must never be stored on personal devices.
+PAID TIME OFF (PTO) AND SICK LEAVE POLICY
+
+Section 1: Paid Time Off (PTO) Accrual
+All full-time, regular employees accrue 15 days of PTO annually. Part-time employees accrue PTO on a pro-rata basis. PTO is accrued monthly and rolls over up to a maximum of 5 unused days at the end of the calendar year.
+
+Section 2: PTO Request Procedure
+Employees must request PTO through the HR system (Workday) with at least **7 business days' notice** for all absences of one day or more. Manager approval is required.
+
+Section 3: Sick Leave Entitlement
+Employees are entitled to 10 paid sick days per calendar year. Sick leave is available immediately upon hire and does not require accrual.
+
+Section 4: Sick Leave Procedure
+For any absence due to illness, the employee must notify their direct manager via phone or messaging (Slack/Teams) **at least 30 minutes before their scheduled start time**. For absences exceeding three (3) consecutive days, a doctor's note may be required by HR.
+
+Section 5: Bereavement Leave
+Employees are granted up to 5 days of paid bereavement leave for the loss of an immediate family member.
+EMPLOYEE EXPENSE AND BUSINESS TRAVEL POLICY
+
+Section 1: Expense Submission
+All employee business expenses must be submitted through the Expensify system. Receipts must be attached for all transactions exceeding $25. The submission deadline is **15 days** after the expense is incurred.
+
+Section 2: Meals and Entertainment
+Employees are eligible for reimbursement for business meals with clients or external partners. The per-person limit for client meals is $75, excluding alcohol. Meals consumed while traveling alone are limited to a daily maximum of $50.
+
+Section 3: Business Travel
+All international and domestic air travel must be booked through the designated corporate travel portal (Concur). Employees are expected to book economy class unless the flight duration exceeds 8 hours, in which case Premium Economy is permissible with prior approval.
+
+Section 4: Mileage Reimbursement
+Personal vehicle mileage used for business purposes will be reimbursed at the current IRS rate, provided a mileage log detailing the purpose and destination is included in the expense report.
