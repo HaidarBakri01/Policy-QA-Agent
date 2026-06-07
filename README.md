@@ -40,8 +40,8 @@ To solve the reliability issues inherent in baseline LLM deployments, this syste
 
 🚀 Setup & Local Installation
 1. Clone the Repository
-git clone [https://github.com/HaidarBakri01/policy-qa-agent.git](https://github.com/YOUR_USERNAME/policy-qa-agent.git)
-cd policy-qa-agent
+git clone [https://github.com/HaidarBakri01/Policy-QA-Agent.git](https://github.com/HaidarBakri01/Policy-QA-Agent.git)
+cd Policy-QA-Agent
 
 2. Configure Your Virtual Environment
 
